@@ -1,12 +1,10 @@
-## Hi there 👋
 
-<!--
+<img src="./htw_logo.png" height=150>
+<img src="./image.png" height=60>
 
-**Here are some ideas to get you started:**
+## Willkommen in der Werkstatt
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Mit der KI-Werkstatt schafft die HTW Berlin einen Ort für das gemeinsame Lehren, Forschen und Anwenden von KI-Technologie auf aktuelle Praxisprobleme. Hier finden Sie ausgewählte Lehrmaterialien, Templates und Demonstratoren. 
+
+> [!TIP]
+>  Mehr über unser Team und unsere Projekte finden Sie auf der [Projektwebseite](https://kiwerkstatt.f2.htw-berlin.de/).  
