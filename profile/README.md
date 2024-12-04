@@ -1,9 +1,11 @@
 
-<table border=0>
-<tr><td><img src="./htw_logo.png" height=150>
-</td><td><img src="./image.png" height=60>
-</td></tr>
-</table>
+
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./htw_logo.png" height=150 style="margin-right: 10px;">
+<img src="./image.png" height=60 style="margin-left: 10px;">
+</div>
+
 
 ## Willkommen in der Werkstatt
 
