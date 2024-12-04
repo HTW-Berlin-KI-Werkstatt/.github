@@ -1,5 +1,5 @@
 
-<table>
+<table border=0>
 <tr><td><img src="./htw_logo.png" height=150>
 </td><td><img src="./image.png" height=60>
 </td></tr>
