@@ -7,7 +7,7 @@
 </div>
 
 
-## Willkommen in der Werkstatt
+## Willkommen in der Werkstatt!
 
 Mit der KI-Werkstatt schafft die HTW Berlin einen Ort für das gemeinsame Lehren, Forschen und Anwenden von KI-Technologie auf aktuelle Praxisprobleme. Hier finden Sie ausgewählte Lehrmaterialien, Templates und Demonstratoren. 
 
@@ -26,6 +26,10 @@ Mit der KI-Werkstatt schafft die HTW Berlin einen Ort für das gemeinsame Lehren
   <tr style="border: none;">
     <td style="border: none;"><a href="https://htw-berlin-ki-werkstatt.github.io/ml-lecture/">Machine Learning</a></td>
     <td style="border: none;"><a href="https://chkra.github.io/ds-lecture/">Data Science</a></td>
-    <td style="border: none;"><a href="https://chkra.github.io/KISys/">Wissens- und KI-basierte <br>Systeme</a></td>
+    <td style="border: none;"><a href="https://chkra.github.io/KISys/">Wissens- und KI-<br>basierte Systeme</a></td>
   </tr>
 </table>
+<br>
+<br>
+<br>
+<br>
