@@ -13,9 +13,8 @@ Mit der KI-Werkstatt schafft die HTW Berlin einen Ort für das gemeinsame Lehren
 
  Mehr über unser Team und unsere Projekte finden Sie auf der [Projektwebseite](https://kiwerkstatt.f2.htw-berlin.de/).  
 
+<br>
  Hier geht es zu den aktuellen Vorlesungsseiten:
-
-
 
 <table "border-collapse: collapse;">
   <tr style="border: none;">
@@ -29,7 +28,5 @@ Mit der KI-Werkstatt schafft die HTW Berlin einen Ort für das gemeinsame Lehren
     <td style="border: none;"><a href="https://chkra.github.io/KISys/">Wissens- und KI-<br>basierte Systeme</a></td>
   </tr>
 </table>
-<br>
-<br>
 <br>
 <br>
