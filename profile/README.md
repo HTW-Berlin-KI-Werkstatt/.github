@@ -24,8 +24,8 @@ Mit der KI-Werkstatt schafft die HTW Berlin einen Ort für das gemeinsame Lehren
   </tr>
   <tr style="border: none;">
     <td style="border: none;"><a href="https://htw-berlin-ki-werkstatt.github.io/ml-lecture/">Machine Learning</a></td>
-    <td style="border: none;"><a href="https://chkra.github.io/ds-lecture/">Data Science</a></td>
-    <td style="border: none;"><a href="https://chkra.github.io/KISys/">Wissens- und KI-<br>basierte Systeme</a></td>
+    <td style="border: none;"><a href="https://chkra.github.io/ds_lecture/">Data Science</a></td>
+    <td style="border: none;"><a href="https://chkra.github.io/wikisys_lecture/">Wissens- und KI-<br>basierte Systeme</a></td>
   </tr>
 </table>
 <br>
