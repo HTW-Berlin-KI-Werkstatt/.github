@@ -30,3 +30,9 @@ Mit der KI-Werkstatt schafft die HTW Berlin einen Ort für das gemeinsame Lehren
 </table>
 <br>
 <br>
+Hier finden Sie weitere Materialien für Ihre Forschungsprojekte:
+
+* <a href="https://github.com/HTW-Berlin-KI-Werkstatt/AI-Project-Canvas/blob/main/AI%20Project%20Canvas.pdf">AI Project Canvas</a>
+* <a href="https://github.com/HTW-Berlin-KI-Werkstatt/GenAI-Support/blob/main/GenAI%20Project%20Canvas.pdf">Gen AI Project Canvas</a>
+* <a href="https://github.com/HTW-Berlin-KI-Werkstatt/GenAI-Support/blob/main/01_Leitfaden_LLM_Evaluierung.pdf">Leitfaden zum Benchmarking von GenAI-Projekten</a>
+
