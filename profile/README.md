@@ -35,4 +35,5 @@ Hier finden Sie weitere Materialien für Ihre Forschungsprojekte:
 * <a href="https://github.com/HTW-Berlin-KI-Werkstatt/AI-Project-Canvas/blob/main/AI%20Project%20Canvas.pdf">AI Project Canvas</a>
 * <a href="https://github.com/HTW-Berlin-KI-Werkstatt/GenAI-Support/blob/main/GenAI%20Project%20Canvas.pdf">Gen AI Project Canvas</a>
 * <a href="https://github.com/HTW-Berlin-KI-Werkstatt/GenAI-Support/blob/main/01_Leitfaden_LLM_Evaluierung.pdf">Leitfaden zum Benchmarking von GenAI-Projekten</a>
+* <a href="https://github.com/HTW-Berlin-KI-Werkstatt/GenAI-Support/blob/3c0131a7bd33ca2ee11fbe061462032fe6daf95d/GenAI_Model_Selection_Canvas.pdf">Model Selection Canvas</a>
 
